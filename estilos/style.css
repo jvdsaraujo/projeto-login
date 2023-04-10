@@ -81,11 +81,10 @@ div.campo > i {
 
 div.campo > input {
     font-size: 1em;
-    width: calc(100%-44);
     height: 100%;
     border-radius: 5px;
     padding: 4px;
-    transform: translateY(-10px);
+    transform: translate(5%, -20%);
 }
 
 form > input[type=submit] {
