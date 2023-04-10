@@ -20,6 +20,14 @@
         float: right;
         width: 65%;
     }
+
+    div.campo > input {
+        font-size: 1em;
+        height: 100%;
+        border-radius: 5px;
+        padding: 4px;
+        transform: translate(5%, -20%);
+    }
 }
 
 @media screen and (min-width:992px) {
@@ -50,6 +58,14 @@
     div#form > p {
         font-size: 1em;
         margin: 20px 0px;
+    }
+
+    div.campo > input {
+        font-size: 1em;
+        height: 100%;
+        border-radius: 5px;
+        padding: 4px;
+        transform: translate(10%, -20%);
     }
     
 }
